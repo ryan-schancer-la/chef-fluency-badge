@@ -1,5 +1,5 @@
 name 'apache'
-maintainer 'Ryan'
+maintainer 'ryan'
 maintainer_email 'ryan.schancer@bluestembrands.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
